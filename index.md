@@ -78,7 +78,10 @@ page_sections:
 - template: simple-header
   block: header-3
   logo: ''
-Test_website: ''
+- template: simple-header
+  block: header-3
+  logo: ''
+Test_website: test website
 
 ---
 foo bar
