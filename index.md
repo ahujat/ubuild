@@ -80,7 +80,7 @@ page_sections:
   logo: ''
 - template: simple-header
   block: header-3
-  logo: ''
+  logo: "/uploads/2018/06/21/drone-photo.jpeg"
 Test_website: test website
 
 ---
