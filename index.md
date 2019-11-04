@@ -82,7 +82,6 @@ page_sections:
   block: header-3
   logo: ''
 Test_website: test website
-published: false
 
 ---
 foo bar
