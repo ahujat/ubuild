@@ -3,8 +3,9 @@ label: page-builder
 hide_body: true
 fields:
 - type: text
-  label: Title
-  name: title
+  label: Test
+  name: Test_website
+  description: Just testing
 - type: text
   name: layout
   label: Layout
